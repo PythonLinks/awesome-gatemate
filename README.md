@@ -45,8 +45,8 @@ A curated directory of relevant links for the Gatemate FPGA.
 
 [Discord Gatemate Channel]([radiona](https://discord.gg/BSJfFz2H3g)) on the Radiona Discord Server.
 
-[@olimex@mastodon.social)](https://mastodon.social/@olimex) makers of the leading Gatemate board. 
+[@olimex@mastodon.social](https://mastodon.social/@olimex) makers of the leading Gatemate board. 
 
-[@PythonLinks@mastodon.social](https://mastodon.social/@PythonLinks)) maintains this awesome directory.
+[@PythonLinks@mastodon.social](https://mastodon.social/@PythonLinks) maintains this directory.
 
-I encourage every to get of of corporate social media and [join the fediverse](https://JoinMastodon.org). 
+I encourage every to minimise your useage of corporate social media and [join the fediverse](https://JoinMastodon.org).   
