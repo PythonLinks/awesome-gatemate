@@ -10,6 +10,8 @@ A curated directory of relevant links for the Gatemate FPGA.
 
 [Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn)
 
+[Architectural Slides](https://colognechip.com/wp-content/uploads/Novel-GateMate-FPGA-Architecture-FPL2021.pdf)  Really these slides should be in the data sheet. 
+
 ## Boards
 
 [Olimex GateMateA1-EVB1](https://www.olimex.com/Products/FPGA/GateMate/GateMateA1-EVB/) This 50€ board is the popular choice for starting with the GateMate.  You will probably want to use at lease one of these [extebsuib boards](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate). Here is the list of [UEXT Extension boards](https://www.olimex.com/Products/Modules/UEXT/). At [the bottom of this page]([pico-ice: Using Pmods](https://pico-ice.tinyvision.ai/md_pmods.html)) is a list of lists of pMods. 
@@ -40,6 +42,10 @@ A curated directory of relevant links for the Gatemate FPGA.
 ## Articles
 
 [GateMate FPGA Tool Chain](https://www.adiuvoengineering.com/post/gatemate-fpga-tool-chain)
+
+[Cologne Chips GateMate FPGA Offers a Flexible Architecture](https://www.hackster.io/news/cologne-chip-s-gatemate-fpga-offers-a-flexible-cologne-programmable-element-architecture-2db40691dded)
+
+[Would you buy a $20 GateMate FPGA from Germany’s Cologne Chip?](https://www.eejournal.com/article/would-you-buy-a-20-gatemate-fpga-from-germanys-cologne-chip/)
 
 ## Social Media
 
