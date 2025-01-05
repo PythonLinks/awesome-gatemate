@@ -4,7 +4,7 @@
 
 ## Pricing
 
-One user told me that the 21€ Gatemate A1 board compares very roughly, to Lattice ECP5-5G LFE5UM5G-45 [53€-83€ at digikey,com](https://www.digikey.com/en/products/filter/fpgas-field-programmable-gate-array/696?s=N4IgTCBcDaIDIDECiBWAqgWRQcQLQBYUEQBdAXyA) plus EU import duties, or AMD's Spartan 6 (XC6SLX45T,
+One user told me that the 21€ Gatemate A1 board compares very roughly, to Lattice ECP5-5G LFE5UM5G-45 [53€-83€ at digikey,com](https://www.digikey.ie/en/products/filter/fpgas-field-programmable-gate-array/696?s=N4IgTCBcDaIDIDECiBWAqgWRQcQLQBYUEQBdAXyA) plus EU import duties, or AMD's Spartan 6 (XC6SLX45T,
 
 ## Documentation
 
