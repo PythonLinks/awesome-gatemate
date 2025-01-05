@@ -2,6 +2,10 @@
 
 ## A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.
 
+## Pricing
+
+One user told me that the 21€ Gatemate A1 board compares very roughly, to Lattice ECP5-5G LFE5UM5G-45 \[$55-\$83 at digikey](https://www.digikey.com/en/products/filter/fpgas-field-programmable-gate-array/696?s=N4IgTCBcDaIDIDECiBWAqgWRQcQLQBYUEQBdAXyA) plus EU import duties, or AMD's Spartan 6 (XC6SLX45T) 
+
 ## Documentation
 
 [Documentation]()[GateMate FPGA | Cologne Chip](https://colognechip.com/programmable-logic/gatemate/#tab-313423).  Scroll down and click on the documentation tab.  The data sheet is very well writen.  Installation guide is also there.  If you want to understand LUT trees, make sure to read the primitives library. 
@@ -34,6 +38,8 @@
 [GateMate Integrated Logic Analyzer (ILA) deep dive - CNX Software](https://www.cnx-software.com/2024/06/11/gatemate-integrated-logic-analyzer-ila-deep-dive/)
 
 [FemtoRV Tutorial](https://github.com/fm4dd/gatemate-riscv)
+
+[NEORV32 on GateMate Issues ](https://github.com/stnolting/neorv32/discussions/983) NEORV has a big enphasis on useability and realiability. 
 
 [litex](https://github.com/enjoy-digital/litex) now supports both the Olimex and Cologne Chips boards. 
 
