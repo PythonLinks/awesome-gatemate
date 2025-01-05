@@ -29,8 +29,7 @@
 
 ## GateWare
 
-[Engaging demos and examples](https://www.chili-chips.xyz/open-cologne) 
-[OpenCologne](https://github.com/chili-chips-ba/openCologne) funded by the EU. 
+[Open Cologne](https://www.chili-chips.xyz/open-cologne)  is a project to expand the GateMate ecosystem,  funded by the EU.  [Github](https://github.com/chili-chips-ba/openCologne) 
 
 [GateMate Integrated Logic Analyzer (ILA) deep dive - CNX Software](https://www.cnx-software.com/2024/06/11/gatemate-integrated-logic-analyzer-ila-deep-dive/)
 
