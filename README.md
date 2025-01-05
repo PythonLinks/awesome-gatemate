@@ -1,8 +1,6 @@
 # 
 
-# Aweseome Cologne Chips GateMate FPGAs
-
-A curated directory of relevant links for the Gatemate FPGA. 
+## A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.
 
 ## Documentation
 
