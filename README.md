@@ -57,10 +57,12 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 ## Social Media
 
-[Discord Gatemate Channel]([radiona](https://discord.gg/BSJfFz2H3g)) on the Radiona Discord Server.
+[OLIMEX Gatemate Board Discord Channel](https://discord.gg/5ahf3Rc46j)
+
+[Radiona Gatemate Discord Channel]([radiona](https://discord.gg/BSJfFz2H3g)) They are making the Olimex Gagemate add on boards, and [OpenCologne and the ULX5S](https://www.chili-chips.xyz/open-cologne/).
 
 [@olimex@mastodon.social](https://mastodon.social/@olimex) makers of the leading Gatemate board. 
 
 [@PythonLinks@mastodon.social](https://mastodon.social/@PythonLinks) maintains this directory.
 
-I encourage every to minimise your useage of corporate social media and [join the fediverse](https://JoinMastodon.org).   
+I encourage everyone to minimise your useage of corporate social media such as X/Twitter and [join the fediverse](https://JoinMastodon.org).   
