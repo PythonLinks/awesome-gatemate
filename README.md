@@ -2,9 +2,7 @@
 
 ## A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.
 
-## Pricing
-
-One user told me that the 21€ Gatemate A1 board compares very roughly, to Lattice ECP5-5G LFE5UM5G-45 [53€-83€ at digikey,com](https://www.digikey.ie/en/products/filter/fpgas-field-programmable-gate-array/696?s=N4IgTCBcDaIDIDECiBWAqgWRQcQLQBYUEQBdAXyA) plus EU import duties, or AMD's Spartan 6 (XC6SLX45T,
+[Why I am using the Colgne Chip's GateMate FPGA](https://forth.pythonlinks.info/why-i-am-using-the-gatemate-fpga) compares the GateMate to other FPGAs. 
 
 ## Documentation
 
@@ -24,6 +22,10 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [GMM-7550](https://github.com/GMM-7550/gmm7550-hardware)  [2024 Feb FOSDEM Talk](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2107-cologne-chip-gatemate-fpga-filling-a-gap-between-hardware-and-software-with-a-presentation-of-the-gmm-7550-module-/) Includes a Raspberry Pi hat and a  memory module which provides 512Kx8 static RAM (CY7C1049GN30-10ZSXI) with 10 ns access time and 16 MiB QSPI NOR FLASH (S25LP128-JBLE).
 [Trenz Electonics # FPGA module](https://shop.trenz-electronic.de/de/TEG2000-01-P001-FPGA-Modul-mit-GateMate-A1-von-Cologne-Chip-16-MByte-QSPI-Flash-4-x-5-cm#)     16 MByte QSPI Flash, 4 x 5 cm]. 82.11 € (69.00 € net)
+
+## Pricing
+
+One user told me that the 21€ Gatemate A1 board compares very roughly, to Lattice ECP5-5G LFE5UM5G-45 [53€-83€ at digikey,com](https://www.digikey.ie/en/products/filter/fpgas-field-programmable-gate-array/696?s=N4IgTCBcDaIDIDECiBWAqgWRQcQLQBYUEQBdAXyA), or AMD's Spartan 6 (XC6SLX45T, In Europe Lattice and AMD also face import duties, and a greater risk of supply chain disruptions, particularly if the chips are made in Taiwan.
 
 ## FirmWare
 
