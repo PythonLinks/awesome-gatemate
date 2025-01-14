@@ -49,7 +49,7 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [Playground for various GateMate FPGA SerDes loopback tests](https://github.com/pu-cc/gm_serdes_lb)
 
-[nterface Guide for Peripheral Devices with 3.3 V Signaling](https://www.colognechip.com/docs/ug1003-gatemate1-level-shifting-latest.pdf)
+[Interface Guide for Peripheral Devices with 3.3 V Signaling](https://www.colognechip.com/docs/ug1003-gatemate1-level-shifting-latest.pdf)
 
 ## Articles
 
