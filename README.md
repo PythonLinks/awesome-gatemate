@@ -45,6 +45,12 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [litex](https://github.com/enjoy-digital/litex) now supports both the Olimex and Cologne Chips boards. 
 
+## Documentation
+
+[Playground for various GateMate FPGA SerDes loopback tests](https://github.com/pu-cc/gm_serdes_lb)
+
+[nterface Guide for Peripheral Devices with 3.3 V Signaling](https://www.colognechip.com/docs/ug1003-gatemate1-level-shifting-latest.pdf)
+
 ## Articles
 
 [Accelerating the Game of Life with the GateMate FPGA: Computing 960 Cells in a Single Clock Cycle](https://www.linkedin.com/pulse/game-life-fpga-40x24-grid-computed-single-clock-cycle-dave-fohrn-ajhxe/) This is a great example of using the GateMate small adders in an innovateive way. 
