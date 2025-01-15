@@ -45,6 +45,10 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [litex](https://github.com/enjoy-digital/litex) now supports both the Olimex and Cologne Chips boards. 
 
+## Design Tools
+
+[DI-FEntwumS](https://elektronikforschung.de/projekte/di-fentwums) (In German) Open source design and visualization environment for dynamically configurable microchips
+
 ## Documentation
 
 [Playground for various GateMate FPGA SerDes loopback tests](https://github.com/pu-cc/gm_serdes_lb)
