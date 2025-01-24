@@ -14,7 +14,7 @@
 
 ## Boards
 
-[Olimex GateMateA1-EVB1](https://www.olimex.com/Products/FPGA/GateMate/GateMateA1-EVB/) This 50€ board is the popular choice for starting with the GateMate.  You will probably want to use at lease one of these [extebsuib boards](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate). Here is the list of [UEXT Extension boards](https://www.olimex.com/Products/Modules/UEXT/). At [the bottom of this page]([pico-ice: Using Pmods](https://pico-ice.tinyvision.ai/md_pmods.html)) is a list of lists of pMods. 
+[Olimex GateMateA1-EVB1](https://www.olimex.com/Products/FPGA/GateMate/GateMateA1-EVB/) This 50€ board is the popular choice for starting with the GateMate.  You will probably want to use at lease one of these [extension boards](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate). Here is the list of [UEXT Extension boards](https://www.olimex.com/Products/Modules/UEXT/). At [the bottom of this page]([pico-ice: Using Pmods](https://pico-ice.tinyvision.ai/md_pmods.html)) is a list of lists of pMods. 
 
 [Cologne Chip's GateMate FPGA Evaluation Board](https://www.colognechip.com/programmable-logic/gatemate-evaluation-board/)  This is the board made by Cologne Chips. [\$398 at Digikey](https://www.digikey.com.au/en/products/detail/cologne-chip/CCGM1A1-E1/16087880)
 
@@ -22,6 +22,8 @@
 
 [GMM-7550](https://github.com/GMM-7550/gmm7550-hardware)  [2024 Feb FOSDEM Talk](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2107-cologne-chip-gatemate-fpga-filling-a-gap-between-hardware-and-software-with-a-presentation-of-the-gmm-7550-module-/) Includes a Raspberry Pi hat and a  memory module which provides 512Kx8 static RAM (CY7C1049GN30-10ZSXI) with 10 ns access time and 16 MiB QSPI NOR FLASH (S25LP128-JBLE).
 [Trenz Electonics # FPGA module](https://shop.trenz-electronic.de/de/TEG2000-01-P001-FPGA-Modul-mit-GateMate-A1-von-Cologne-Chip-16-MByte-QSPI-Flash-4-x-5-cm#)     16 MByte QSPI Flash, 4 x 5 cm]. 82.11 € (69.00 € net)
+
+[ULX5M](https://www.chili-chips.xyz/open-cologne/) is in development.
 
 ## Pricing
 
@@ -55,9 +57,17 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [Interface Guide for Peripheral Devices with 3.3 V Signaling](https://www.colognechip.com/docs/ug1003-gatemate1-level-shifting-latest.pdf)
 
+
+
+## Videos
+
+[Novel Architecture for European FPGA](https://underline.io/lecture/34046-novel-architecture-for-european-fpga) An introduction to the GateMate architecture.
+
 ## Articles
 
 [Accelerating the Game of Life with the GateMate FPGA: Computing 960 Cells in a Single Clock Cycle](https://www.linkedin.com/pulse/game-life-fpga-40x24-grid-computed-single-clock-cycle-dave-fohrn-ajhxe/) This is a great example of using the GateMate small adders in an innovateive way. 
+
+[Using One and Two Bit Adders](https://forth.pythonlinks.info/using-gatemate-1-and-2-bit-adders) to solve the above game of life calculations. Not as efficient a solution, but easy to understand.
 
 [GateMate FPGA Tool Chain](https://www.adiuvoengineering.com/post/gatemate-fpga-tool-chain)
 
