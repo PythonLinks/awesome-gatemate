@@ -2,7 +2,7 @@
 
 ## A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.
 
-[Why I am using the Colgne Chip's GateMate FPGA](https://forth.pythonlinks.info/why-i-am-using-the-gatemate-fpga) compares the GateMate to other FPGAs. 
+[Why GateMate?](https://forth.pythonlinks.info/why-i-am-using-the-gatemate-fpga) compares the GateMate to other FPGAs. 
 
 ## Documentation
 
@@ -11,6 +11,8 @@
 [Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn)
 
 [Architectural Slides](https://colognechip.com/wp-content/uploads/Novel-GateMate-FPGA-Architecture-FPL2021.pdf)  Really these slides should be in the data sheet. 
+
+[LUT-Tree Analsysis](https://github.com/chili-chips-ba/openCologne/tree/main/8.StressTest#lut-tree-logic) An excellent explanation of the LUT trees. 
 
 ## Boards
 
@@ -24,8 +26,6 @@
 [Trenz Electonics # FPGA module](https://shop.trenz-electronic.de/de/TEG2000-01-P001-FPGA-Modul-mit-GateMate-A1-von-Cologne-Chip-16-MByte-QSPI-Flash-4-x-5-cm#)     16 MByte QSPI Flash, 4 x 5 cm]. 82.11 € (69.00 € net)
 
 [ULX5M](https://www.chili-chips.xyz/open-cologne/) is in development.
-
-
 
 [LED Matrix](https://github.com/Martoni/Martoni_Pcb_collection/tree/main/glm5va) A little PCB to adapt 2.5v GateMate signals to 5V for matrix Led.
 
