@@ -2,7 +2,7 @@
 
 ## A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.
 
-[Why GateMate Video ](https://www.youtube.com/embed/ZokT2tEiXSA)  [Slides](https://pythonlinks.info/presentations/vectors/WhyGateMate.pdf)
+[Why GateMate Video](https://www.youtube.com/embed/ZokT2tEiXSA)    [Slides](https://pythonlinks.info/presentations/vectors/WhyGateMate.pdf)
 
 ## Documentation
 
@@ -66,8 +66,6 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 ## Videos
 
 [Novel Architecture for European FPGA](https://underline.io/lecture/34046-novel-architecture-for-european-fpga) An introduction to the GateMate architecture.  [Slides](https://colognechip.com/wp-content/uploads/Novel-GateMate-FPGA-Architecture-FPL2021.pdf)
-
-
 
 ## Articles
 
