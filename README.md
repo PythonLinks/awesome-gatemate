@@ -2,7 +2,7 @@
 
 ## A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.
 
-[Why GateMate?](https://forth.pythonlinks.info/why-i-am-using-the-gatemate-fpga) compares the GateMate to other FPGAs. 
+[Why GateMate Video ](https://www.youtube.com/embed/ZokT2tEiXSA)  [Slides](https://pythonlinks.info/presentations/vectors/WhyGateMate.pdf)
 
 ## Documentation
 
@@ -10,9 +10,15 @@
 
 [Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn)
 
-[Architectural Slides](https://colognechip.com/wp-content/uploads/Novel-GateMate-FPGA-Architecture-FPL2021.pdf)  Really these slides should be in the data sheet. 
+[Architectural Slides](https://colognechip.com/wp-content/uploads/Novel-GateMate-FPGA-Architecture-FPL2021.pdf)  Really these slides should be in the data sheet. [Video](https://underline.io/lecture/34046-novel-architecture-for-european-fpga)
 
 [LUT-Tree Analsysis](https://github.com/chili-chips-ba/openCologne/tree/main/8.StressTest#lut-tree-logic) An excellent explanation of the LUT trees. 
+
+[Playground for various GateMate FPGA SerDes loopback tests](https://github.com/pu-cc/gm_serdes_lb)
+
+[Interface Guide for Peripheral Devices with 3.3 V Signaling](https://www.colognechip.com/docs/ug1003-gatemate1-level-shifting-latest.pdf)
+
+[LUTRAM_Stress_Test capacities](https://github.com/tarik-ibrahimovic/LUTRAM_Stress_Test)
 
 ## Boards
 
@@ -25,7 +31,7 @@
 [GMM-7550](https://github.com/GMM-7550/gmm7550-hardware)  [2024 Feb FOSDEM Talk](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2107-cologne-chip-gatemate-fpga-filling-a-gap-between-hardware-and-software-with-a-presentation-of-the-gmm-7550-module-/) Includes a Raspberry Pi hat and a  memory module which provides 512Kx8 static RAM (CY7C1049GN30-10ZSXI) with 10 ns access time and 16 MiB QSPI NOR FLASH (S25LP128-JBLE).
 [Trenz Electonics # FPGA module](https://shop.trenz-electronic.de/de/TEG2000-01-P001-FPGA-Modul-mit-GateMate-A1-von-Cologne-Chip-16-MByte-QSPI-Flash-4-x-5-cm#)     16 MByte QSPI Flash, 4 x 5 cm]. 82.11 € (69.00 € net)
 
-[ULX5M](https://www.chili-chips.xyz/open-cologne/) is in development.
+[ULX5M](https://www.chili-chips.xyz/open-cologne/) is in development.  It will be in the popular Raspberry Pi Compute Module 4 (CM4) form-factor, so it can attach to lots of different base boards. 
 
 [LED Matrix](https://github.com/Martoni/Martoni_Pcb_collection/tree/main/glm5va) A little PCB to adapt 2.5v GateMate signals to 5V for matrix Led.
 
@@ -41,9 +47,11 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 ## GateWare
 
+[Space Inavders on an Intel 8080.  Article](https://olimex.wordpress.com/2025/01/08/space-inavders-retrogame-runs-on-gatematea1-evb/)   [GitLab](https://gitlab.com/x653/spaceinvaders-fpga)
+
 [Open Cologne](https://www.chili-chips.xyz/open-cologne)  is a project to expand the GateMate ecosystem,  funded by the EU.  [Github](https://github.com/chili-chips-ba/openCologne) 
 
-[GateMate Integrated Logic Analyzer (ILA) deep dive - CNX Software](https://www.cnx-software.com/2024/06/11/gatemate-integrated-logic-analyzer-ila-deep-dive/)
+[Integrated Logic Analyzer](https://www.cnx-software.com/2024/06/11/gatemate-integrated-logic-analyzer-ila-deep-dive/) allows you to capture and analyze all signals of your design as a waveform directly within the FPGA. [Video](https://www.youtube.com/watch?v=TZblFccw4kg&t=23s)   [GitHub](https://github.com/colognechip/gatemate_ila)
 
 [FemtoRV Tutorial](https://github.com/fm4dd/gatemate-riscv)
 
@@ -55,15 +63,11 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [DI-FEntwumS](https://elektronikforschung.de/projekte/di-fentwums) (In German) Open source design and visualization environment for dynamically configurable microchips
 
-## Documentation
-
-[Playground for various GateMate FPGA SerDes loopback tests](https://github.com/pu-cc/gm_serdes_lb)
-
-[Interface Guide for Peripheral Devices with 3.3 V Signaling](https://www.colognechip.com/docs/ug1003-gatemate1-level-shifting-latest.pdf)
-
 ## Videos
 
-[Novel Architecture for European FPGA](https://underline.io/lecture/34046-novel-architecture-for-european-fpga) An introduction to the GateMate architecture.
+[Novel Architecture for European FPGA](https://underline.io/lecture/34046-novel-architecture-for-european-fpga) An introduction to the GateMate architecture.  [Slides](https://colognechip.com/wp-content/uploads/Novel-GateMate-FPGA-Architecture-FPL2021.pdf)
+
+
 
 ## Articles
 
@@ -76,6 +80,8 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 [Cologne Chips GateMate FPGA Offers a Flexible Architecture](https://www.hackster.io/news/cologne-chip-s-gatemate-fpga-offers-a-flexible-cologne-programmable-element-architecture-2db40691dded)
 
 [Would you buy a $20 GateMate FPGA from Germany’s Cologne Chip?](https://www.eejournal.com/article/would-you-buy-a-20-gatemate-fpga-from-germanys-cologne-chip/)
+
+[Why GateMate?](https://forth.pythonlinks.info/why-i-am-using-the-gatemate-fpga) compares the GateMate to other FPGAs.
 
 ## Social Media
 
