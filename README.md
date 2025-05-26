@@ -68,14 +68,12 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [litex](https://github.com/enjoy-digital/litex) now supports both the Olimex and Cologne Chips boards. 
 
-
-
 ## Hardware Testing
 
 The [Project Peppercorn GateMate Test Cases](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main), has a large amount of useful code for testing the hardware. 
-[OV7670 Camera Controller](h(ttps://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/107-ov7670)
+[OV7670 Camera Controller](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/107-ov7670)
 
-VGA Tests: [color](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/011-vga-color)   [Image](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/041-vga-image), and 16 more, too many to index, just [search the page]([GitHub - YosysHQ/prjpeppercorn-test-cases: Project Peppercorn GateMate Test Cases](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main))
+VGA Tests: [color](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/011-vga-color)   [Image](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/041-vga-image), and 16 more, too many to index, just [search the page]((https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main))
 [Button Test](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/022-buttons) 
 
 OLED Tests: [color](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/031-oled-color) [sprite](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/032-oled-sprite) [pong-wall](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/033-oled-wall) 
@@ -100,8 +98,6 @@ OLED Tests: [color](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/mai
 [DVI Driver](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/099-dvi-12b) for the 12 bit Black Mesa Labs DVI PMOD
 
 [OV7670 Camera](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/107-ov7670)
-
-
 
 ## Design Tools
 
