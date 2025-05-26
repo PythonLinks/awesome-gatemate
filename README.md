@@ -70,7 +70,8 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 ## Hardware Testing
 
-The [Project Peppercorn GateMate Test Cases](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main), has a large amount of useful code for testing the hardware. 
+The [Project Peppercorn GateMate Test Cases](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main), has a large amount of useful code for testing the hardware.  These gateware tests are good starting points for controlling the hardware. 
+
 [OV7670 Camera Controller](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/107-ov7670)
 
 VGA Tests: [color](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/011-vga-color)   [Image](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/041-vga-image), and 16 more, too many to index, just [search the page]((https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main))
