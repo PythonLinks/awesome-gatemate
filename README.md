@@ -20,6 +20,8 @@
 
 [LUTRAM_Stress_Test capacities](https://github.com/tarik-ibrahimovic/LUTRAM_Stress_Test)
 
+[Phased Locked Loop (PLL) Implementation](https://colognechip.com/wp-content/uploads/c3-pll-white-paper.pdf) 
+
 ## Boards
 
 [Olimex GateMateA1-EVB1](https://www.olimex.com/Products/FPGA/GateMate/GateMateA1-EVB/) This 50€ board is the popular choice for starting with the GateMate.  You will probably want to use at lease one of these [extension boards](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate). Here is the list of [UEXT Extension boards](https://www.olimex.com/Products/Modules/UEXT/). At [the bottom of this page]([pico-ice: Using Pmods](https://pico-ice.tinyvision.ai/md_pmods.html)) is a list of lists of pMods. 
@@ -54,10 +56,52 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 [Integrated Logic Analyzer](https://www.cnx-software.com/2024/06/11/gatemate-integrated-logic-analyzer-ila-deep-dive/) allows you to capture and analyze all signals of your design as a waveform directly within the FPGA. [Video](https://www.youtube.com/watch?v=TZblFccw4kg&t=23s)   [GitHub](https://github.com/colognechip/gatemate_ila)
 
 [FemtoRV Tutorial](https://github.com/fm4dd/gatemate-riscv)
+[Litex VexRisc](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/058-litex-vexriscv)
+
+[Litex FazyRV RISC-V](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/089-litex-fazyrv)  1 2 or 4 or maybe 8 bit RISC-V processor. 
+
+[Litex Serv](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/061-litex-serv) An award winning one bit RISC-V serial processor.
 
 [NEORV32 on GateMate Issues ](https://github.com/stnolting/neorv32/discussions/983) NEORV has a big enphasis on useability and realiability. 
 
+[EduBoss](https://fpga-ignite.github.io/presentations-pdf/presentation16.pdf) written by people very active in the GateMate community. 
+
 [litex](https://github.com/enjoy-digital/litex) now supports both the Olimex and Cologne Chips boards. 
+
+
+
+## Hardware Testing
+
+The [Project Peppercorn GateMate Test Cases](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main), has a large amount of useful code for testing the hardware. 
+[OV7670 Camera Controller](h(ttps://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/107-ov7670)
+
+VGA Tests: [color](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/011-vga-color)   [Image](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/041-vga-image), and 16 more, too many to index, just [search the page]([GitHub - YosysHQ/prjpeppercorn-test-cases: Project Peppercorn GateMate Test Cases](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main))
+[Button Test](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/022-buttons) 
+
+OLED Tests: [color](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/031-oled-color) [sprite](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/032-oled-sprite) [pong-wall](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/033-oled-wall) 
+[DVI Colorbar](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/072-dvi-lvds) Verical bars on the screen.
+[PS2 port](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/080-ps2) (Keyboard or mouse)
+[Serdes](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/084-serdes-loopback)
+[ColecoVision Console](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/085-colecovision) 
+
+[St7789 OLED](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/096-oled-st7789)
+
+[Litexx I2C](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/097-litex-with-i2c)
+[OPL2 Audio Synthesizer](https://docs.icebreaker-fpga.org/hardware/pmod/dvi/)
+
+[HyperRAM](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/101-litex-hyperram)
+
+[SDCard](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/102-litex-sdcard)
+[Ethernet](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/103-litex-eth)
+
+[PSRAM](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/104-psram)
+[SPI Flash](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/105-litex-spi-flash)
+
+[DVI Driver](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/099-dvi-12b) for the 12 bit Black Mesa Labs DVI PMOD
+
+[OV7670 Camera](https://github.com/YosysHQ/prjpeppercorn-test-cases/tree/main/107-ov7670)
+
+
 
 ## Design Tools
 
