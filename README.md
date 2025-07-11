@@ -31,10 +31,9 @@
 [Prototyping board for the GateMate Evaluation Board](https://github.com/fm4dd/gm-proto-e1)
 
 [GMM-7550](https://github.com/GMM-7550/gmm7550-hardware)  [2024 Feb FOSDEM Talk](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2107-cologne-chip-gatemate-fpga-filling-a-gap-between-hardware-and-software-with-a-presentation-of-the-gmm-7550-module-/) Includes a Raspberry Pi hat, an I/O Breakout board, a USB3.0 interface and a  memory module which provides [512Kx8 static RAM]([CY7C1049GN30-10ZSXI - Infineon Technologies](https://www.infineon.com/cms/en/product/memories/sram-static-ram/asynchronous-sram/cy7c1049gn30-10zsxi/)) with 10 ns access time and 16 MiB QSPI NOR FLASH (S25LP128-JBLE).
-[Trenz Electonics # FPGA module](https://shop.trenz-electronic.de/de/TEG2000-01-P001-FPGA-Modul-mit-GateMate-A1-von-Cologne-Chip-16-MByte-QSPI-Flash-4-x-5-cm#)     16 MByte QSPI Flash, 4 x 5 cm]. 82.11 € (69.00 € net)
+[Trenz Electonics # FPGA module](https://shop.trenz-electronic.de/de/TEG2000-01-P001-FPGA-Modul-mit-GateMate-A1-von-Cologne-Chip-16-MByte-QSPI-Flash-4-x-5-cm#)     16 MByte QSPI Flash, 4 x 5 cm]. 82.11 € (69.00 € net).     
+
 [Sipeed PMOD DVI]([TANG PMOD - Sipeed Wiki](https://wiki.sipeed.com/hardware/en/tang/tang-PMOD/FPGA_PMOD.html)) (Scroll down to 5.1) is a module for HDMI output/input, which requires the use of LVDS differential pairs.  It works with the GateMate ColorBar DVI demo on the Cologne Chips eval circuit board.  The only change needed is to replace [this line](https://github.com/trabucayre/GateMate_demos/blob/main/colorBarDVI/colorBarDVI.v#L21 ) with ``A({~TMDS_0_clk, ~TMDS_0_data}),```. Does not work with the Olimex board, it seems to have an issue with the level shifters.  Thanks @gwenhaelgoavec.
-
-
 
 [ULX5M](https://www.chili-chips.xyz/open-cologne/) is in development.  It will be in the popular Raspberry Pi Compute Module 4 (CM4) form-factor, so it can attach to lots of different base boards. 
 
