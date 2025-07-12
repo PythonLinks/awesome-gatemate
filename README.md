@@ -8,9 +8,11 @@
 
 [Documentation]()[GateMate FPGA | Cologne Chip](https://colognechip.com/programmable-logic/gatemate/#tab-313423).  Scroll down and click on the documentation tab.  The data sheet is very well writen.  Installation guide is also there.  If you want to understand LUT trees, make sure to read the primitives library. 
 
-[Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn)
-
 [Architectural Slides](https://colognechip.com/wp-content/uploads/Novel-GateMate-FPGA-Architecture-FPL2021.pdf)  Really these slides should be in the data sheet. [Video](https://underline.io/lecture/34046-novel-architecture-for-european-fpga)
+
+[Serdes Slides 2025](https://colognechip.com/docs/presentations/gatemate-serdes-fpgaconf2025.pdf)
+
+[Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn) 
 
 [LUT-Tree Analsysis](https://github.com/chili-chips-ba/openCologne/tree/main/8.StressTest#lut-tree-logic) An excellent explanation of the LUT trees. 
 
