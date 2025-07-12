@@ -12,7 +12,7 @@
 
 [Serdes Slides 2025](https://colognechip.com/docs/presentations/gatemate-serdes-fpgaconf2025.pdf)
 
-[Radiation Tolerance Slides 2025]((https://colognechip.com/docs/presentations/gatemate-radiation-fpgaconf2025.pdf) 
+[Radiation Tolerance Slides 2025](https://colognechip.com/docs/presentations/gatemate-radiation-fpgaconf2025.pdf) 
 
 [Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn) 
 
