@@ -12,6 +12,8 @@
 
 [Serdes Slides 2025](https://colognechip.com/docs/presentations/gatemate-serdes-fpgaconf2025.pdf)
 
+[Radiation Tolerance Slides 2025]((https://colognechip.com/docs/presentations/gatemate-radiation-fpgaconf2025.pdf) 
+
 [Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn) 
 
 [LUT-Tree Analsysis](https://github.com/chili-chips-ba/openCologne/tree/main/8.StressTest#lut-tree-logic) An excellent explanation of the LUT trees. 
