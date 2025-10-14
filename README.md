@@ -15,10 +15,7 @@
 [Radiation Tolerance Slides 2025](https://colognechip.com/docs/presentations/gatemate-radiation-fpgaconf2025.pdf) 
 
 
-
-[Seot 2025 Cern Talk
-
-](https://indico.cern.ch/event/1587509/contributions/6690211/attachments/3140818/5574499/gatemate-fdf2025.pdf)
+[Seot 2025 Cern Talk](https://indico.cern.ch/event/1587509/contributions/6690211/attachments/3140818/5574499/gatemate-fdf2025.pdf)
 
 [Project Peppercorn - GateMate FPGA Bitstream Documentation](https://github.com/YosysHQ/prjpeppercorn)  Placement flow is a modified [HeAP](https://ieeexplore.ieee.org/document/6339278). [CRoute](https://ieeexplore.ieee.org/document/8735564) does the routing, followed by simulated annealing.   
 
