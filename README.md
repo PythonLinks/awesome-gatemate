@@ -1,5 +1,3 @@
-# 
-
 ## A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.
 
 [Why GateMate Video](https://www.youtube.com/embed/ZokT2tEiXSA)    [Slides](https://pythonlinks.info/presentations/vectors/WhyGateMate.pdf)
@@ -13,7 +11,6 @@
 [Serdes Slides 2025](https://colognechip.com/docs/presentations/gatemate-serdes-fpgaconf2025.pdf)
 
 [Radiation Tolerance Slides 2025](https://colognechip.com/docs/presentations/gatemate-radiation-fpgaconf2025.pdf) 
-
 
 [Seot 2025 Cern Talk](https://indico.cern.ch/event/1587509/contributions/6690211/attachments/3140818/5574499/gatemate-fdf2025.pdf)
 
@@ -29,6 +26,8 @@
 
 [Phased Locked Loop (PLL) Implementation](https://colognechip.com/wp-content/uploads/c3-pll-white-paper.pdf) 
 
+[ToolChain(https://colognechip.com/programmable-logic/gatemate/#tab-313424)
+
 ## Boards
 
 [Olimex GateMateA1-EVB1](https://www.olimex.com/Products/FPGA/GateMate/GateMateA1-EVB/) This 50€ board is the popular choice for starting with the GateMate.  You will probably want to use at lease one of these [extension boards](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate). Here is the list of [UEXT Extension boards](https://www.olimex.com/Products/Modules/UEXT/). At [the bottom of this page]([pico-ice: Using Pmods](https://pico-ice.tinyvision.ai/md_pmods.html)) is a list of lists of pMods. 
@@ -37,7 +36,7 @@
 
 [Prototyping board for the GateMate Evaluation Board](https://github.com/fm4dd/gm-proto-e1)
 
-[GMM-7550](https://github.com/GMM-7550/gmm7550-hardware)  [2024 Feb FOSDEM Talk](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2107-cologne-chip-gatemate-fpga-filling-a-gap-between-hardware-and-software-with-a-presentation-of-the-gmm-7550-module-/) Includes a Raspberry Pi hat, an I/O Breakout board, a USB3.0 interface and a  memory module which provides [512Kx8 static RAM]([CY7C1049GN30-10ZSXI - Infineon Technologies](https://www.infineon.com/cms/en/product/memories/sram-static-ram/asynchronous-sram/cy7c1049gn30-10zsxi/)) with 10 ns access time and 16 MiB QSPI NOR FLASH (S25LP128-JBLE).
+[GMM-7550](https://www.gmm7550.dev/doc/hardware.html)  [2024 Feb FOSDEM Talk](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2107-cologne-chip-gatemate-fpga-filling-a-gap-between-hardware-and-software-with-a-presentation-of-the-gmm-7550-module-/) Includes a Raspberry Pi hat, an I/O Breakout board, a USB3.0 interface and a  memory module which provides [512Kx8 static RAM]([CY7C1049GN30-10ZSXI - Infineon Technologies](https://www.infineon.com/cms/en/product/memories/sram-static-ram/asynchronous-sram/cy7c1049gn30-10zsxi/)) with 10 ns access time and 16 MiB QSPI NOR FLASH (S25LP128-JBLE).
 [Trenz Electonics # FPGA module](https://shop.trenz-electronic.de/de/TEG2000-01-P001-FPGA-Modul-mit-GateMate-A1-von-Cologne-Chip-16-MByte-QSPI-Flash-4-x-5-cm#)     16 MByte QSPI Flash, 4 x 5 cm]. 82.11 € (69.00 € net).     
 
 [Sipeed Tang PMOD DVI](https://wiki.sipeed.com/hardware/en/tang/tang-PMOD/FPGA_PMOD.html)) (Scroll down to 5.1) is a module for HDMI output/input, which requires the use of LVDS differential pairs.  It works with the GateMate ColorBar DVI demo on the Cologne Chips eval circuit board.  The only change needed is to replace [this line](https://github.com/trabucayre/GateMate_demos/blob/main/colorBarDVI/colorBarDVI.v#L21 ) with ``A({~TMDS_0_clk, ~TMDS_0_data}),```. Does not work with the Olimex board, it seems to have an issue with the level shifters.  Thanks @gwenhaelgoavec.
@@ -75,7 +74,9 @@ One user told me that the 21€ Gatemate A1 board compares very roughly, to Latt
 
 [EduBoss](https://fpga-ignite.github.io/presentations-pdf/presentation16.pdf) written by people very active in the GateMate community. 
 
-[litex](https://github.com/enjoy-digital/litex) now supports both the Olimex and Cologne Chips boards. 
+[PCIe on GateMate NLnet Project](https://github.com/chili-chips-ba/openCologne-PCIE)
+
+[NLnet; USB 3](https://nlnet.nl/project/GateMate-USB3-PHY/)
 
 ## Hardware Testing
 
